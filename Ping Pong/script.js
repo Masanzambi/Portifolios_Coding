@@ -62,7 +62,7 @@ function draw() {
             }
         },
         speedUp: function(){
-            this.speed += 2;
+            this.speed += 1;
         },
         draw: function(){
             context.fillStyle = "#ffffff";
